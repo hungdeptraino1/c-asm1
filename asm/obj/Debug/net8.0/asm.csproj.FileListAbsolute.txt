@@ -1,0 +1,14 @@
+F:\codevisual\asm\bin\Debug\net8.0\asm.exe
+F:\codevisual\asm\bin\Debug\net8.0\asm.deps.json
+F:\codevisual\asm\bin\Debug\net8.0\asm.runtimeconfig.json
+F:\codevisual\asm\bin\Debug\net8.0\asm.dll
+F:\codevisual\asm\bin\Debug\net8.0\asm.pdb
+F:\codevisual\asm\obj\Debug\net8.0\asm.GeneratedMSBuildEditorConfig.editorconfig
+F:\codevisual\asm\obj\Debug\net8.0\asm.AssemblyInfoInputs.cache
+F:\codevisual\asm\obj\Debug\net8.0\asm.AssemblyInfo.cs
+F:\codevisual\asm\obj\Debug\net8.0\asm.csproj.CoreCompileInputs.cache
+F:\codevisual\asm\obj\Debug\net8.0\asm.dll
+F:\codevisual\asm\obj\Debug\net8.0\refint\asm.dll
+F:\codevisual\asm\obj\Debug\net8.0\asm.pdb
+F:\codevisual\asm\obj\Debug\net8.0\asm.genruntimeconfig.cache
+F:\codevisual\asm\obj\Debug\net8.0\ref\asm.dll
